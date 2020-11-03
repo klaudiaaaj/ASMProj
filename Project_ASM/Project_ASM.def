@@ -1,0 +1,3 @@
+LIBRARY "Project_ASM"
+EXPORTS
+Blend

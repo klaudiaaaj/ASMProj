@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UI_Blending": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
